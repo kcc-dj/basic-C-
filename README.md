@@ -1,1 +1,1 @@
-# C
+# results of basic C studying
